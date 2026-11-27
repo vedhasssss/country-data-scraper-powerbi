@@ -15,8 +15,8 @@ Python, Requests, Beautiful Soup, CSV, Power BI
 ![Dashboard](dashboard.png)
 
 ## How to run
-pip install -r requirements.txt
-python scraper.py
+1. pip install -r requirements.txt
+2. Open `Web_Scraping.ipynb` and run it
 
 ## Files
 - `Web_Scraping.ipynb`: scraping script
